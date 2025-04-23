@@ -1,1 +1,9 @@
+User-agent: Yandex
+User-agent: Googlebot
+Disallow: /register
+Disallow: /login
+Disallow: /auth
 
+User-agent: *
+Allow: /
+Crawl-delay: 7
